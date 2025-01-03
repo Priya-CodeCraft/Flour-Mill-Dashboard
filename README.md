@@ -30,7 +30,7 @@ This project presents a comprehensive Excel-based dashboard designed to streamli
 2. Navigate through the various tabs to analyze financials, workforce metrics, and utility data.
 3. Use the interactive charts and graphs for insights and reporting.
 
-## 📷 Screenshots
+## 📷 Screenshot
 ![Dashboard Preview](./images/dashboard-preview.png)
 
 ## 📂 Repository Structure
